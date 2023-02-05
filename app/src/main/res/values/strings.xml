@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gui_components</string>
+    <string name="_200701236">200701236</string>
+    <string name="tech_lounge_counter">Tech Lounge Counter</string>
+    <string name="shrish_m_cse_d">Shrish M,CSE-D</string>
+    <string name="check_in">Check_in</string>
+    <string name="check_out">Check_out</string>
+    <string name="count">0</string>
+</resources>
